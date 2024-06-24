@@ -1,5 +1,5 @@
-# PharmEasy.com
-## Mini project by usining pure php language for 5th semester , which it represent an online pharmacy store.
+# EasyPharm.com (Nom facultatif)
+## Mini project by usining pure php language, which it represent an online pharmacy store.
 ## Main page:
 ![](project-images/main.png)
 ## Functionality
